@@ -221,7 +221,7 @@ int conditional(int x, int y, int z) {
 int isLessOrEqual(int x, int y) {
   int sign = !((x & y) >> 31);
 
-  return ;
+  return 0;
 }
 //4
 /* 
